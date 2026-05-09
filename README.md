@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=tsa2000&show_icons=true&theme=dark" />
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsa2000&theme=dark)
